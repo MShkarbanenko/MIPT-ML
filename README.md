@@ -1,1 +1,1 @@
-My homeworks for the course of reinforcment learning at MIPT.
+My homeworks for the machine learning course learning at MIPT.
